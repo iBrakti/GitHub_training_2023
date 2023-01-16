@@ -2,4 +2,5 @@ Couscous
 
 1) Add the X to the X
 2) Add Y to the Y
+3) Add apples to the mixture
 
