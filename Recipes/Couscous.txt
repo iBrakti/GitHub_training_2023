@@ -2,5 +2,9 @@ Couscous
 
 1) Add the X to the X
 2) Add Y to the Y
+<<<<<<< HEAD
 3) Add apples to the mixture
+=======
+3) Add Z to the Z
+>>>>>>> experimental
 
